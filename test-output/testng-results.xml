@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome is launched]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is launched]]>
+    </line>
+    <line>
+      <![CDATA[Validate CRM Logo]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is launched]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="118892" started-at="2019-10-21T09:06:59Z" finished-at="2019-10-21T09:08:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="118892" started-at="2019-10-21T09:06:59Z" finished-at="2019-10-21T09:08:58Z">
+      <class name="com.crm.qa.testCases.LoingPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="setup" is-config="true" duration-ms="44033" started-at="2019-10-21T09:07:00Z" finished-at="2019-10-21T09:07:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome is launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginPageTittleTest()[pri:1, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="loginPageTittleTest" duration-ms="165" started-at="2019-10-21T09:07:44Z" finished-at="2019-10-21T09:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTittleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="4836" started-at="2019-10-21T09:07:44Z" finished-at="2019-10-21T09:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="setup" is-config="true" duration-ms="25720" started-at="2019-10-21T09:07:49Z" finished-at="2019-10-21T09:08:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome is launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="crmLogoImageTest()[pri:2, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="crmLogoImageTest" duration-ms="172" started-at="2019-10-21T09:08:14Z" finished-at="2019-10-21T09:08:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Validate CRM Logo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- crmLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1102" started-at="2019-10-21T09:08:14Z" finished-at="2019-10-21T09:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="setup" is-config="true" duration-ms="25311" started-at="2019-10-21T09:08:16Z" finished-at="2019-10-21T09:08:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome is launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="LoginTest" duration-ms="16083" started-at="2019-10-21T09:08:41Z" finished-at="2019-10-21T09:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.LoingPageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1391" started-at="2019-10-21T09:08:57Z" finished-at="2019-10-21T09:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testCases.LoingPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
